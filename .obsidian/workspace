@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "e8624c6c7b25b387",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d8d10c138aaba6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zet_publish/202109120946.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aae49fbbd168da3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eaf36d98812e5b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05daac93c55c2da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cad35e41ab328c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5bc4d3514f4cc1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e4286590d600f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4cbda09e076096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zet_publish/202109120946.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09d8d10c138aaba6",
+  "lastOpenFiles": [
+    "zet_publish/202109120946.md",
+    "zet_publish/202103012055.md",
+    "zet_publish/202103031010.md",
+    "README.md"
+  ]
+}
