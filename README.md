@@ -1,7 +1,8 @@
+
+
 todo: take video talk about news note talking setup
 
 Todo: https://github.com/thuanowa/qr-code-component
-
 
 Todo: find more out-source or product company for internship
 What company do I want to intern at?
