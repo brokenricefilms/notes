@@ -1,5 +1,3 @@
-
-
 todo: take video talk about news note talking setup
 
 Todo: https://github.com/thuanowa/qr-code-component
