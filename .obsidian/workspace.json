@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "f86a42ada7ecc7f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ff79360bba658b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90e85a967cedafd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00b631a19d2e4fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8890581b707dcf01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bef5766065a84aa9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc41d7ce2f3d6a3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e97553d2e85473d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5bee934d330e6d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbc2a516aa69cbd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90e85a967cedafd2",
+  "lastOpenFiles": []
+}
