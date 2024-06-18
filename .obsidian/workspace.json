@@ -16,8 +16,19 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "9ae8a742cc4c6003",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "chrome flag setting.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,12 +106,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e85a967cedafd2",
+  "active": "9ae8a742cc4c6003",
   "lastOpenFiles": [
+    "Pasted Image 20240618152746_134.png",
+    "index.md",
+    "chrome flag setting.md",
     "Pasted Image 20240618143152_253.png",
     "Pasted Image 20240618143104_254.png",
     "Pasted Image 20240618143048_257.png",
-    "Pasted Image 20240614112903_326.png",
-    "index.md"
+    "Pasted Image 20240614112903_326.png"
   ]
 }
