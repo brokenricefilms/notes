@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "2eb3d20cc9920699",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "upwork index.md"
+              }
+            }
+          },
+          {
             "id": "52905e5e04da0a15",
             "type": "leaf",
             "state": {
@@ -37,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,11 +126,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e85a967cedafd2",
+  "active": "2eb3d20cc9920699",
   "lastOpenFiles": [
+    "index.md",
+    "upwork index.md",
     "brothers moving.md",
     "chrome flag setting.md",
-    "index.md",
     "Pasted Image 20240619191939_481.png",
     "Pasted Image 20240618152746_134.png",
     "Pasted Image 20240618143152_253.png",
