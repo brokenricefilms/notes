@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,10 +126,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e85a967cedafd2",
+  "active": "2eb3d20cc9920699",
   "lastOpenFiles": [
-    "chrome flag setting.md",
     "index.md",
+    "chrome flag setting.md",
     "upwork index.md",
     "brothers moving.md",
     "Pasted Image 20240619191939_481.png",
