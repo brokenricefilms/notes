@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "upwork index.md"
+                "file": "upwork.md"
               }
             }
           },
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,13 +136,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e09d4ec955d6abc",
+  "active": "2eb3d20cc9920699",
   "lastOpenFiles": [
-    "chuy bay thuan.md",
+    "Pasted Image 20240625092704_200.png",
+    "Pasted Image 20240625092616_190.png",
     "ong youtube.md",
+    "chuy bay thuan.md",
     "chrome flag setting.md",
     "index.md",
-    "upwork index.md",
+    "upwork.md",
     "brothers moving.md",
     "Pasted Image 20240619191939_481.png",
     "Pasted Image 20240618152746_134.png",
