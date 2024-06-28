@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "b603f29d057e355b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "floorp.md"
+              }
+            }
+          },
+          {
             "id": "2eb3d20cc9920699",
             "type": "leaf",
             "state": {
@@ -57,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,13 +146,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e85a967cedafd2",
+  "active": "b603f29d057e355b",
   "lastOpenFiles": [
+    "index.md",
+    "floorp.md",
     "ong youtube.md",
     "chuy bay thuan.md",
     "chrome flag setting.md",
     "upwork.md",
-    "index.md",
     "stick-figures.excalidrawlib",
     "simple-characters.excalidrawlib",
     "Pasted Image 20240625092704_200.png",
