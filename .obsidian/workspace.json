@@ -16,59 +16,8 @@
                 "file": "index.md"
               }
             }
-          },
-          {
-            "id": "b603f29d057e355b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "floorp.md"
-              }
-            }
-          },
-          {
-            "id": "2eb3d20cc9920699",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "upwork.md"
-              }
-            }
-          },
-          {
-            "id": "9ae8a742cc4c6003",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "chrome flag setting.md"
-              }
-            }
-          },
-          {
-            "id": "dd428098e9efa063",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "chuy bay thuan.md"
-              }
-            }
-          },
-          {
-            "id": "7e09d4ec955d6abc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ong youtube.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,10 +95,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b603f29d057e355b",
+  "active": "90e85a967cedafd2",
   "lastOpenFiles": [
-    "index.md",
     "floorp.md",
+    "index.md",
     "ong youtube.md",
     "chuy bay thuan.md",
     "chrome flag setting.md",
