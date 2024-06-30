@@ -16,8 +16,19 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "a50740666562c6d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "youtube SEO.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,10 +106,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e85a967cedafd2",
+  "active": "a50740666562c6d8",
   "lastOpenFiles": [
-    "floorp.md",
     "index.md",
+    "youtube SEO.md",
+    "floorp.md",
     "ong youtube.md",
     "chuy bay thuan.md",
     "chrome flag setting.md",
