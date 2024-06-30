@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,10 +105,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a50740666562c6d8",
+  "active": "90e85a967cedafd2",
   "lastOpenFiles": [
-    "index.md",
+    "Pasted Image 20240630170727_262.png",
     "youtube SEO.md",
+    "index.md",
     "floorp.md",
     "ong youtube.md",
     "chuy bay thuan.md",
