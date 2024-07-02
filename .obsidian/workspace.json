@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "8168f6d734273d52",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FU cash.md"
+              }
+            }
+          },
+          {
             "id": "a50740666562c6d8",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,11 +116,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e85a967cedafd2",
+  "active": "8168f6d734273d52",
   "lastOpenFiles": [
+    "index.md",
+    "FU cash.md",
     "Pasted Image 20240630170727_262.png",
     "youtube SEO.md",
-    "index.md",
     "floorp.md",
     "ong youtube.md",
     "chuy bay thuan.md",
