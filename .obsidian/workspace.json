@@ -16,8 +16,29 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "420acf34691e2800",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "thomas gonnet.md"
+              }
+            }
+          },
+          {
+            "id": "6364ee0d8d1e1fc2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drawing tablet.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,11 +116,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12da7797b2cca49",
+  "active": "6364ee0d8d1e1fc2",
   "lastOpenFiles": [
+    "thomas gonnet.md",
+    "drawing tablet.md",
+    "index.md",
     "youtube SEO.md",
     "chrome flag setting.md",
-    "index.md",
     "Pasted Image 20240705185200_362.png",
     "FU cash.md",
     "Pasted Image 20240630170727_262.png",
