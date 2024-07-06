@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "027074e4274a6711",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "get new client.md"
+              }
+            }
+          },
+          {
             "id": "420acf34691e2800",
             "type": "leaf",
             "state": {
@@ -58,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,16 +146,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "353be11633e9a216",
+  "active": "027074e4274a6711",
   "lastOpenFiles": [
+    "index.md",
+    "get new client.md",
+    "mindmap.md",
+    "learner type.md",
     "Pasted Image 20240706193039_204.png",
     "Drawing 2024-07-06 19.29.16.excalidraw.md",
-    "learner type.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
-    "mindmap.md",
     "drawing tablet.md",
     "thomas gonnet.md",
-    "index.md",
     "youtube SEO.md",
     "chrome flag setting.md",
     "Pasted Image 20240705185200_362.png",
@@ -163,7 +174,6 @@
     "Pasted Image 20240619191939_481.png",
     "Pasted Image 20240618152746_134.png",
     "Pasted Image 20240618143152_253.png",
-    "Pasted Image 20240618143104_254.png",
-    "Pasted Image 20240618143048_257.png"
+    "Pasted Image 20240618143104_254.png"
   ]
 }
