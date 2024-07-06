@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7ff79360bba658b",
+        "id": "08ab4a1841306497",
         "type": "tabs",
         "children": [
           {
-            "id": "90e85a967cedafd2",
+            "id": "c12da7797b2cca49",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "chrome flag setting.md"
-              }
-            }
-          },
-          {
-            "id": "a50740666562c6d8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "youtube SEO.md"
+                "file": "index.md"
               }
             }
           }
@@ -105,17 +95,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e85a967cedafd2",
+  "active": "c12da7797b2cca49",
   "lastOpenFiles": [
+    "youtube SEO.md",
+    "chrome flag setting.md",
     "index.md",
     "Pasted Image 20240705185200_362.png",
     "FU cash.md",
     "Pasted Image 20240630170727_262.png",
-    "youtube SEO.md",
     "floorp.md",
     "ong youtube.md",
     "chuy bay thuan.md",
-    "chrome flag setting.md",
     "upwork.md",
     "stick-figures.excalidrawlib",
     "simple-characters.excalidrawlib",
