@@ -36,9 +36,19 @@
                 "file": "drawing tablet.md"
               }
             }
+          },
+          {
+            "id": "6112999eef89c3fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "mindmap.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,10 +126,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6364ee0d8d1e1fc2",
+  "active": "6112999eef89c3fc",
   "lastOpenFiles": [
-    "thomas gonnet.md",
     "drawing tablet.md",
+    "mindmap.md",
+    "mindmap.md",
+    "thomas gonnet.md",
     "index.md",
     "youtube SEO.md",
     "chrome flag setting.md",
