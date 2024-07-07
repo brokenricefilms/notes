@@ -38,16 +38,6 @@
             }
           },
           {
-            "id": "420acf34691e2800",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "thomas gonnet.md"
-              }
-            }
-          },
-          {
             "id": "6364ee0d8d1e1fc2",
             "type": "leaf",
             "state": {
@@ -77,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,15 +145,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2387cc535fb2fcb",
+  "active": "c12da7797b2cca49",
   "lastOpenFiles": [
     "get new client.md",
     "fasting.md",
-    "index.md",
-    "learner type.md",
-    "mindmap.md",
     "drawing tablet.md",
+    "mindmap.md",
+    "learner type.md",
     "thomas gonnet.md",
+    "index.md",
     "Pasted Image 20240706193039_204.png",
     "Drawing 2024-07-06 19.29.16.excalidraw.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
