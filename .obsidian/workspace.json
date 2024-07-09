@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,15 +146,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12da7797b2cca49",
+  "active": "027074e4274a6711",
   "lastOpenFiles": [
+    "index.md",
     "get new client.md",
     "fasting.md",
     "drawing tablet.md",
     "mindmap.md",
     "learner type.md",
     "thomas gonnet.md",
-    "index.md",
     "Pasted Image 20240706193039_204.png",
     "Drawing 2024-07-06 19.29.16.excalidraw.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
