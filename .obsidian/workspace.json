@@ -13,7 +13,17 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "index.md"
+                "file": "inbox.md"
+              }
+            }
+          },
+          {
+            "id": "0c2c2c824bd2356b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "chrome flag setting.md"
               }
             }
           },
@@ -127,10 +137,11 @@
   },
   "active": "c12da7797b2cca49",
   "lastOpenFiles": [
+    "chrome flag setting.md",
+    "inbox.md",
     "The Affinity Journey.md",
     "get new client.md",
     "this guy code.md",
-    "index.md",
     "fasting.md",
     "drawing tablet.md",
     "mindmap.md",
@@ -140,7 +151,6 @@
     "Drawing 2024-07-06 19.29.16.excalidraw.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
     "youtube SEO.md",
-    "chrome flag setting.md",
     "Pasted Image 20240705185200_362.png",
     "FU cash.md",
     "Pasted Image 20240630170727_262.png",
