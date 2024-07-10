@@ -18,57 +18,27 @@
             }
           },
           {
-            "id": "027074e4274a6711",
+            "id": "d735e5a92746741b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "get new client.md"
+                "file": "this guy code.md"
               }
             }
           },
           {
-            "id": "d2387cc535fb2fcb",
+            "id": "118420901a92309f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "fasting.md"
-              }
-            }
-          },
-          {
-            "id": "6364ee0d8d1e1fc2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "drawing tablet.md"
-              }
-            }
-          },
-          {
-            "id": "6112999eef89c3fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "mindmap.md"
-              }
-            }
-          },
-          {
-            "id": "353be11633e9a216",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "learner type.md"
+                "file": "The Affinity Journey.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,8 +116,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "027074e4274a6711",
+  "active": "118420901a92309f",
   "lastOpenFiles": [
+    "this guy code.md",
+    "The Affinity Journey.md",
     "index.md",
     "get new client.md",
     "fasting.md",
