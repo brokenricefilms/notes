@@ -36,9 +36,18 @@
                 "file": "The Affinity Journey.md"
               }
             }
+          },
+          {
+            "id": "15808811087e1c24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "get new client.md"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,12 +125,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "118420901a92309f",
+  "active": "c12da7797b2cca49",
   "lastOpenFiles": [
-    "this guy code.md",
     "The Affinity Journey.md",
-    "index.md",
     "get new client.md",
+    "this guy code.md",
+    "index.md",
     "fasting.md",
     "drawing tablet.md",
     "mindmap.md",
