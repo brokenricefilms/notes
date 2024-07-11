@@ -18,36 +18,6 @@
             }
           },
           {
-            "id": "0c2c2c824bd2356b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "chrome flag setting.md"
-              }
-            }
-          },
-          {
-            "id": "d735e5a92746741b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "this guy code.md"
-              }
-            }
-          },
-          {
-            "id": "118420901a92309f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "The Affinity Journey.md"
-              }
-            }
-          },
-          {
             "id": "15808811087e1c24",
             "type": "leaf",
             "state": {
@@ -137,11 +107,11 @@
   },
   "active": "c12da7797b2cca49",
   "lastOpenFiles": [
-    "chrome flag setting.md",
-    "inbox.md",
-    "The Affinity Journey.md",
     "get new client.md",
+    "inbox.md",
+    "chrome flag setting.md",
     "this guy code.md",
+    "The Affinity Journey.md",
     "fasting.md",
     "drawing tablet.md",
     "mindmap.md",
