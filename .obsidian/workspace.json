@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,10 +106,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12da7797b2cca49",
+  "active": "15808811087e1c24",
   "lastOpenFiles": [
-    "get new client.md",
     "inbox.md",
+    "get new client.md",
     "chrome flag setting.md",
     "this guy code.md",
     "The Affinity Journey.md",
