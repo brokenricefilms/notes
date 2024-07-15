@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "c0de82884e38642f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "mindmap.md"
+              }
+            }
+          },
+          {
             "id": "15808811087e1c24",
             "type": "leaf",
             "state": {
@@ -27,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,21 +115,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15808811087e1c24",
+  "active": "c12da7797b2cca49",
   "lastOpenFiles": [
+    "mindmap.md",
     "inbox.md",
+    "test.md",
+    "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
+    "Drawing 2024-07-15 10.20.43.excalidraw.md",
     "get new client.md",
     "chrome flag setting.md",
     "this guy code.md",
     "The Affinity Journey.md",
     "fasting.md",
     "drawing tablet.md",
-    "mindmap.md",
     "learner type.md",
     "thomas gonnet.md",
     "Pasted Image 20240706193039_204.png",
     "Drawing 2024-07-06 19.29.16.excalidraw.md",
-    "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
     "youtube SEO.md",
     "Pasted Image 20240705185200_362.png",
     "FU cash.md",
