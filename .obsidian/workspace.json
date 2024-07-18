@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,11 +125,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "141fe51be73d49ea",
+  "active": "c12da7797b2cca49",
   "lastOpenFiles": [
+    "mindmap.md",
     "inbox.md",
     "loi sign.md",
-    "mindmap.md",
     "test.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
     "Drawing 2024-07-15 10.20.43.excalidraw.md",
