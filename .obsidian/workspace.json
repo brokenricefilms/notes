@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "2f5d3c3e012a291f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "141fe51be73d49ea",
             "type": "leaf",
             "state": {
@@ -47,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +136,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12da7797b2cca49",
+  "active": "2f5d3c3e012a291f",
   "lastOpenFiles": [
     "mindmap.md",
     "inbox.md",
