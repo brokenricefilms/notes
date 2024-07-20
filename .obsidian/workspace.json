@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "8e9867016b3176ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "voice over preset.md"
+              }
+            }
+          },
+          {
             "id": "141fe51be73d49ea",
             "type": "leaf",
             "state": {
@@ -58,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,16 +146,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06f148766eda17de",
+  "active": "8e9867016b3176ee",
   "lastOpenFiles": [
+    "get new client.md",
+    "voice over preset.md",
+    "Pasted Image 20240720201039_474.png",
+    "chrome flag setting.md",
     "inbox.md",
     "mindmap.md",
     "loi sign.md",
     "test.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
     "Drawing 2024-07-15 10.20.43.excalidraw.md",
-    "get new client.md",
-    "chrome flag setting.md",
     "this guy code.md",
     "The Affinity Journey.md",
     "fasting.md",
@@ -169,7 +181,6 @@
     "brothers moving.md",
     "Pasted Image 20240619191939_481.png",
     "Pasted Image 20240618152746_134.png",
-    "Pasted Image 20240618143152_253.png",
-    "Pasted Image 20240618143104_254.png"
+    "Pasted Image 20240618143152_253.png"
   ]
 }
