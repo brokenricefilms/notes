@@ -4,66 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08ab4a1841306497",
+        "id": "9ca7c199f08a5e52",
         "type": "tabs",
         "children": [
           {
-            "id": "c12da7797b2cca49",
+            "id": "65f1820ae3dacc5d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "inbox.md"
-              }
-            }
-          },
-          {
-            "id": "06f148766eda17de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "chrome flag setting.md"
-              }
-            }
-          },
-          {
-            "id": "8e9867016b3176ee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "voice over preset.md"
-              }
-            }
-          },
-          {
-            "id": "141fe51be73d49ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "loi sign.md"
-              }
-            }
-          },
-          {
-            "id": "c0de82884e38642f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "mindmap.md"
-              }
-            }
-          },
-          {
-            "id": "15808811087e1c24",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "get new client.md"
               }
             }
           }
@@ -145,15 +95,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12da7797b2cca49",
+  "active": "65f1820ae3dacc5d",
   "lastOpenFiles": [
-    "voice over preset.md",
     "get new client.md",
-    "Pasted Image 20240720201039_474.png",
-    "chrome flag setting.md",
-    "inbox.md",
     "mindmap.md",
     "loi sign.md",
+    "voice over preset.md",
+    "chrome flag setting.md",
+    "inbox.md",
+    "Pasted Image 20240720201039_474.png",
     "test.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
     "Drawing 2024-07-15 10.20.43.excalidraw.md",
