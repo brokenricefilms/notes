@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,10 +145,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e9867016b3176ee",
+  "active": "c12da7797b2cca49",
   "lastOpenFiles": [
-    "get new client.md",
     "voice over preset.md",
+    "get new client.md",
     "Pasted Image 20240720201039_474.png",
     "chrome flag setting.md",
     "inbox.md",
