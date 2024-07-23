@@ -16,6 +16,16 @@
                 "file": "inbox.md"
               }
             }
+          },
+          {
+            "id": "5dd78cb86f11884a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "voice over preset.md"
+              }
+            }
           }
         ]
       }
@@ -97,12 +107,13 @@
   },
   "active": "65f1820ae3dacc5d",
   "lastOpenFiles": [
+    "voice over preset.md",
+    "Pasted Image 20240723105727_996.png",
+    "inbox.md",
     "get new client.md",
     "mindmap.md",
     "loi sign.md",
-    "voice over preset.md",
     "chrome flag setting.md",
-    "inbox.md",
     "Pasted Image 20240720201039_474.png",
     "test.md",
     "quiz.icanstudy.com_learner-type_results_668936801e151789492040 (1).png",
@@ -129,7 +140,6 @@
     "Pasted Image 20240625092616_190.png",
     "brothers moving.md",
     "Pasted Image 20240619191939_481.png",
-    "Pasted Image 20240618152746_134.png",
-    "Pasted Image 20240618143152_253.png"
+    "Pasted Image 20240618152746_134.png"
   ]
 }
