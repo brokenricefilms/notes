@@ -26,8 +26,19 @@
                 "file": "voice over preset.md"
               }
             }
+          },
+          {
+            "id": "059b6eefeb2f2d7f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Daily life of an NPC.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,11 +116,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65f1820ae3dacc5d",
+  "active": "059b6eefeb2f2d7f",
   "lastOpenFiles": [
     "voice over preset.md",
-    "Pasted Image 20240723105727_996.png",
+    "Daily life of an NPC.md",
     "inbox.md",
+    "Pasted Image 20240723105727_996.png",
     "get new client.md",
     "mindmap.md",
     "loi sign.md",
