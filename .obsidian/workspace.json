@@ -36,6 +36,16 @@
                 "file": "Daily life of an NPC.md"
               }
             }
+          },
+          {
+            "id": "da879600693c8c0f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Linus Torvalds Films.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -118,8 +128,9 @@
   },
   "active": "059b6eefeb2f2d7f",
   "lastOpenFiles": [
-    "voice over preset.md",
+    "Linus Torvalds Films.md",
     "Daily life of an NPC.md",
+    "voice over preset.md",
     "inbox.md",
     "Pasted Image 20240723105727_996.png",
     "get new client.md",
