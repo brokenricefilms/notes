@@ -16,59 +16,8 @@
                 "file": "inbox.md"
               }
             }
-          },
-          {
-            "id": "5dd78cb86f11884a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "voice over preset.md"
-              }
-            }
-          },
-          {
-            "id": "059b6eefeb2f2d7f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Daily life of an NPC.md"
-              }
-            }
-          },
-          {
-            "id": "da879600693c8c0f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Linus Torvalds Films.md"
-              }
-            }
-          },
-          {
-            "id": "b612486571a1e7c5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "brothers moving.md"
-              }
-            }
-          },
-          {
-            "id": "ca7592c27f0f62af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "buy.md"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,13 +95,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca7592c27f0f62af",
+  "active": "65f1820ae3dacc5d",
   "lastOpenFiles": [
+    "voice over preset.md",
+    "Daily life of an NPC.md",
+    "Linus Torvalds Films.md",
     "brothers moving.md",
     "buy.md",
-    "Linus Torvalds Films.md",
-    "Daily life of an NPC.md",
-    "voice over preset.md",
     "inbox.md",
     "Pasted Image 20240723105727_996.png",
     "get new client.md",
