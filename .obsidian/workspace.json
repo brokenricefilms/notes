@@ -16,8 +16,19 @@
                 "file": "buy.md"
               }
             }
+          },
+          {
+            "id": "d85a91954ee9bbf6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "dream desk.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,14 +106,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65f1820ae3dacc5d",
+  "active": "d85a91954ee9bbf6",
   "lastOpenFiles": [
+    "buy.md",
+    "dream desk.md",
     "inbox.md",
     "voice over preset.md",
     "Daily life of an NPC.md",
     "Linus Torvalds Films.md",
     "brothers moving.md",
-    "buy.md",
     "Pasted Image 20240723105727_996.png",
     "get new client.md",
     "mindmap.md",
