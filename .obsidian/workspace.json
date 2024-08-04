@@ -26,6 +26,16 @@
                 "file": "livestream topics.md"
               }
             }
+          },
+          {
+            "id": "daa2a3f8c7562fe6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "money.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -108,8 +118,9 @@
   },
   "active": "2dad4ce9026cba28",
   "lastOpenFiles": [
-    "Drawing 2024-08-04 10.36.02.excalidraw.md",
+    "money.md",
     "livestream topics.md",
+    "Drawing 2024-08-04 10.36.02.excalidraw.md",
     "inbox.md",
     "dream desk.md",
     "buy.md",
@@ -138,8 +149,6 @@
     "Pasted Image 20240705185200_362.png",
     "FU cash.md",
     "Pasted Image 20240630170727_262.png",
-    "floorp.md",
-    "ong youtube.md",
     "stick-figures.excalidrawlib",
     "simple-characters.excalidrawlib",
     "Pasted Image 20240625092704_200.png",
