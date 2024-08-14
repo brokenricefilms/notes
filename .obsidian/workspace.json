@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "355e930592ffa143",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "working at night.md"
+              }
+            }
+          },
+          {
             "id": "daa2a3f8c7562fe6",
             "type": "leaf",
             "state": {
@@ -38,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,11 +126,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dad4ce9026cba28",
+  "active": "355e930592ffa143",
   "lastOpenFiles": [
+    "livestream topics.md",
+    "working at night.md",
     "Pasted Image 20240806191804_250.png",
     "money.md",
-    "livestream topics.md",
     "Drawing 2024-08-04 10.36.02.excalidraw.md",
     "inbox.md",
     "dream desk.md",
@@ -154,7 +165,6 @@
     "simple-characters.excalidrawlib",
     "Pasted Image 20240625092704_200.png",
     "Pasted Image 20240625092616_190.png",
-    "Pasted Image 20240619191939_481.png",
-    "Pasted Image 20240618152746_134.png"
+    "Pasted Image 20240619191939_481.png"
   ]
 }
