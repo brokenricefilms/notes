@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,10 +125,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "355e930592ffa143",
+  "active": "393d728e0612e1a3",
   "lastOpenFiles": [
-    "livestream topics.md",
     "working at night.md",
+    "livestream topics.md",
     "Pasted Image 20240806191804_250.png",
     "money.md",
     "Drawing 2024-08-04 10.36.02.excalidraw.md",
