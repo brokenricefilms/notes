@@ -4,46 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca7c199f08a5e52",
+        "id": "0ceb78612d1e65de",
         "type": "tabs",
         "children": [
           {
-            "id": "393d728e0612e1a3",
+            "id": "6ce04eca9573ca9b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "buy.md"
-              }
-            }
-          },
-          {
-            "id": "2dad4ce9026cba28",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "livestream topics.md"
-              }
-            }
-          },
-          {
-            "id": "355e930592ffa143",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "working at night.md"
-              }
-            }
-          },
-          {
-            "id": "daa2a3f8c7562fe6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "money.md"
+                "file": "inbox.md"
               }
             }
           }
@@ -125,8 +95,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "393d728e0612e1a3",
+  "active": "6ce04eca9573ca9b",
   "lastOpenFiles": [
+    "money.md",
+    "working at night.md",
+    "livestream topics.md",
+    "buy.md",
     "Pasted Image 20240819195433_243.png",
     "Pasted Image 20240819195418_242.png",
     "Pasted Image 20240819195402_270.png",
@@ -137,18 +111,13 @@
     "Pasted Image 20240819155946_250.png",
     "Pasted Image 20240818003316_255.png",
     "inbox.md",
-    "working at night.md",
-    "livestream topics.md",
     "Pasted Image 20240806191804_250.png",
-    "money.md",
     "Drawing 2024-08-04 10.36.02.excalidraw.md",
     "dream desk.md",
-    "buy.md",
     "voice over preset.md",
     "Daily life of an NPC.md",
     "Linus Torvalds Films.md",
     "brothers moving.md",
-    "Pasted Image 20240723105727_996.png",
     "get new client.md",
     "mindmap.md",
     "loi sign.md",
