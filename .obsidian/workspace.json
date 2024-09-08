@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ceb78612d1e65de",
+        "id": "040a1aa57eda0144",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce04eca9573ca9b",
+            "id": "5ba8ac61433cda19",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -95,9 +95,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ce04eca9573ca9b",
+  "active": "5ba8ac61433cda19",
   "lastOpenFiles": [
     "money.md",
+    "inbox.md",
     "working at night.md",
     "livestream topics.md",
     "buy.md",
@@ -110,7 +111,6 @@
     "Pasted Image 20240819195134_257.png",
     "Pasted Image 20240819155946_250.png",
     "Pasted Image 20240818003316_255.png",
-    "inbox.md",
     "Pasted Image 20240806191804_250.png",
     "Drawing 2024-08-04 10.36.02.excalidraw.md",
     "dream desk.md",
